@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.webedia.applinktester",
+      "sha256_cert_fingerprints":
+      ["B3:90:B2:E4:D6:1F:B4:0C:28:30:33:09:3B:BD:B6:94:E4:82:D4:EA:9C:27:ED:B2:B5:73:C5:41:EA:7C:04:A0"]
+    }
+  }]
+  
